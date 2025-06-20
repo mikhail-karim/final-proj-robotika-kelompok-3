@@ -1,6 +1,7 @@
 # 🛡️ AI Surveillance Robot – Final Project Robotika A081 Kelompok 3
 
 Nama    : Mikhail Shams Afzal Karim
+
 NPM     : 22081010169
 
 Proyek ini merupakan tugas akhir dari mata kuliah **Robotika A081** yang menggabungkan **Artificial Intelligence (AI)** untuk pendeteksian objek secara real-time dengan perangkat keras berbasis **Arduino**. Sistem ini dirancang untuk **robot Bela Negara University 5 (BNU5)** sebagai sistem **pengawasan otomatis (AI Surveillance)** menggunakan model deteksi **YOLOv8** yang dijalankan pada kamera laptop dan terhubung langsung dengan robot BNU5 melalui komunikasi serial.
@@ -17,6 +18,7 @@ Membangun sistem robotik cerdas pada robot BNU5 yang mampu:
 ---
 
 ## 👥 Anggota Kelompok
+
 - Irsyad Fadhil Makarim
 - Kalfin Syah Kilau Mayya
 - Albi Akhsanul Hakim
